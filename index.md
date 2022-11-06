@@ -5,3 +5,6 @@
 let obj = [] 
 Create an empty object in javascript
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my potyfolio
+- [ ] Introduce myself to the world
